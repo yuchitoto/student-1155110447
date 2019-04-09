@@ -26,3 +26,10 @@ I have started the keeppoll automation on GitHub. And I **want your help**.
 | **Neutral** | SQL    | C          | R       |
 | **Evil**    | Java   | JavaScript | PHP     |
 
+##
+
+|             | Lawful   | Neutral            | Chaotic  |
+|-------------|----------|--------------------|----------|
+| **Good**    | ENGG1110 | MATH1020           | ENGG2020 |
+| **Neutral** | CSCI1130 | MATH1510           | CSCI3250 |
+| **Evil**    | ENGG2440 | PHYS1110, ENGG1410 | ENGG2430 |
